@@ -72,19 +72,93 @@ CRAClock (Ingenious AI) provides a real‑time compliance clock for software ven
 
 Everything profiled for CRAClock (Ingenious AI) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/craclock-getingeniousai-com/](https://apis.io/providers/craclock-getingeniousai-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (3)
+
+- [CRAClock (Ingenious AI) Keys API](https://apis.io/apis/craclock-getingeniousai-com/craclock-getingeniousai-com-keys-api/) — The Keys API from CRAClock (Ingenious AI) — 2 operation(s) for keys.
+- [CRAClock (Ingenious AI) Products API](https://apis.io/apis/craclock-getingeniousai-com/craclock-getingeniousai-com-products-api/) — The Products API from CRAClock (Ingenious AI) — 5 operation(s) for products.
+- [CRAClock (Ingenious AI) Usage API](https://apis.io/apis/craclock-getingeniousai-com/craclock-getingeniousai-com-usage-api/) — The Usage API from CRAClock (Ingenious AI) — 2 operation(s) for usage.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [CRAClock (Ingenious AI) Agentic Access](https://apis.io/agentic-access/craclock-getingeniousai-com/craclock-getingeniousai-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [CRAClock (Ingenious AI) API Rules](https://apis.io/rules/craclock-getingeniousai-com/craclock-getingeniousai-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [CRAClock (Ingenious AI) Authentication](https://apis.io/security/craclock-getingeniousai-com/craclock-getingeniousai-com-authentication/)
+- [CRAClock (Ingenious AI) Domain Security](https://apis.io/security/craclock-getingeniousai-com/craclock-getingeniousai-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [CRAClock (Ingenious AI) Plans Pricing](https://apis.io/plans/craclock-getingeniousai-com/craclock-getingeniousai-com-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://craclock.getingeniousai.com)
 - [Documentation](https://craclock.getingeniousai.com/openapi.json)
+- [Getting started](https://craclock.getingeniousai.com/guides/craclock-getting-started)
 - [Pricing](https://craclock.getingeniousai.com/pricing)
-- [Terms of service](https://craclock.getingeniousai.com/terms)
-- [Privacy policy](https://craclock.getingeniousai.com/privacy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/craclock-getingeniousai-com/](https://apis.io/providers/craclock-getingeniousai-com/).
+**Kin Score 44.3** — developing · rubric 0.27.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 40.4 |
+| Contract governance | 65.5 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 52.1 |
+
+**Agent readiness 27.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 16.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/craclock-getingeniousai-com/](https://apis.io/providers/craclock-getingeniousai-com/).
 
 ## How this profile is made
 
